@@ -2,9 +2,9 @@ def calculate_bill(name, units):
     """
     Calculate electricity bill based on units consumed.
     Different pricing tiers:
-    - 0-100 units: $5 per unit
-    - 101-300 units: $7 per unit
-    - 300+ units: $10 per unit
+    - 0-100 units: 5 per unit
+    - 101-300 units: 7 per unit
+    - 300+ units: 10 per unit
     """
     bill_amount = 0
     
